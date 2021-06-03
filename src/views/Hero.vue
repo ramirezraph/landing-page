@@ -27,7 +27,7 @@
 // @ is an alias to /src
 
 export default {
-   name: 'Home',
+   name: 'Hero',
    components: {},
 };
 </script>
@@ -35,6 +35,7 @@ export default {
 <style lang="scss" scoped>
 section {
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   position: relative;
 }
 
 section::before {
