@@ -1,7 +1,7 @@
 <template>
-   <section class="h-screen grid place-items-center">
+   <section class="grid h-screen place-items-center">
       <div>
-         <h1 class="text-white text-4xl">Sed diam voluptua</h1>
+         <h1 class="text-4xl text-white">Sed diam voluptua</h1>
       </div>
    </section>
 </template>
